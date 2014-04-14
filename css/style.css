@@ -30,8 +30,8 @@ input: focus, textarea: focus {
   outline: none;
 }
 .b-content {
-  font-size: 1.6em;
-  padding-top: 0.02px;
+	font-size: 1.6em;
+	padding-top: 0.25px;
 }
 .b-content.loading {
   opacity: 0;
@@ -216,17 +216,17 @@ body {
   min-width: 100%
 }
 .fr_locaba {
-  float: none;
-  display: block;
-  width: 28.57142857142857%;
-  vertical-align: top;
-  margin-top: 1.3134765625em;
-  margin-right: auto;
-  margin-left: auto;
-  background-repeat: no-repeat;
-  background-image: url(null);
-  background-position: center top;
-  background-attachment: fixed
+	float: none;
+	display: block;
+	width: 28.57142857142857%;
+	vertical-align: top;
+	margin-top: 1px;
+	margin-right: auto;
+	margin-left: auto;
+	background-repeat: no-repeat;
+	background-image: url(null);
+	background-position: center top;
+	background-attachment: fixed
 }
 .fr_wicica {
   display: inline-block;
