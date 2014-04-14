@@ -30,8 +30,8 @@ input: focus, textarea: focus {
   outline: none;
 }
 .b-content {
-	font-size: 1.6em;
-	padding-top: 0.25px;
+  font-size: 1.6em;
+  padding-top: 0.02px;
 }
 .b-content.loading {
   opacity: 0;
@@ -196,98 +196,40 @@ a {
 /** ************************* **/
 /** Widget styles             **/
 /** ************************* **/
+.fr_dogavo {
+  display: block;
+  width: 50%;
+  margin-top: 0;
+  margin-right: auto;
+  margin-left: 25.665399239543724%
+}
 body {
-  margin-top: 11.875em
+  background: white
 }
-.fr_tadewu {
-  float: none;
-  display: block;
-  width: 56.59971305595409%;
-  font-family: Actor;
-  font-weight: 200;
-  text-align: left;
-  vertical-align: top;
-  margin-top: 1.4990234375em;
+.fr_fawila {
+  width: 34.030418250950575%;
+  margin-top: 0;
   margin-right: auto;
-  margin-left: 21.938244047619047%;
-  min-height: 10.125em
+  margin-bottom: 0;
+  margin-left: auto
 }
-.fr_tadewu .fr-text {
+.fr_tikoce {
+  display: block;
+  width: 89.35361216730038%;
+  font-family: Tahoma;
+  line-height: 2.2em;
+  margin-top: 2.0625em;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  min-height: 8.6875em
+}
+.fr_tikoce .fr-text {
   min-width: 100%
 }
-.fr_locaba {
-	float: none;
-	display: block;
-	width: 28.57142857142857%;
-	vertical-align: top;
-	margin-top: 1px;
-	margin-right: auto;
-	margin-left: auto;
-	background-repeat: no-repeat;
-	background-image: url(null);
-	background-position: center top;
-	background-attachment: fixed
-}
-.fr_wicica {
-  display: inline-block;
-  width: auto;
-  font-family: PT Sans;
-  vertical-align: top;
-  margin-top: 9.470703125em;
-  margin-right: auto;
-  min-height: 192px
-}
-.fr_wicica .fr-text {
-  min-width: 100%
-}
-.fr_voduni {
-  display: block;
-  width: 30%;
-  vertical-align: top;
-  margin-top: .283203125em;
-  margin-right: auto;
-  margin-left: 34.19191919191919%
-}
-.fr_voduni .fr-video-inner {
+.fr_fawila .fr-video-inner {
   padding-bottom: 60.9375%;
   position: relative
-}
-.fr_wawivo {
-  width: auto;
-  margin-top: .033203125em;
-  margin-right: auto;
-  margin-left: auto;
-  min-height: 12em
-}
-.fr_pacaha {
-  display: block;
-  width: 30%;
-  margin-top: 1.0625em;
-  margin-right: auto;
-  margin-left: 35.26936026936027%
-}
-.fr_pacaha .fr-video-inner {
-  padding-bottom: 60.9375%;
-  position: relative
-}
-.fr_vifetu {
-  display: block;
-  width: auto;
-  font-family: PT Sans;
-  text-align: center;
-  margin-top: 1.0625em;
-  margin-right: auto;
-  margin-left: auto;
-  min-height: 192px
-}
-.fr_vifetu .fr-text {
-  min-width: 100%
-}
-@media screen and (max-width: 1024px) {
-  .fr_tadewu {
-    margin-top: 1.5625em;
-    min-height: 26.0625em
-  }
 }
 
 /** ******************************** **/
